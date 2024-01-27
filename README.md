@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Java & Back-end based projects.**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for guidance with **C++ development**
 
 - 💬 Ask me about **anything**
 
