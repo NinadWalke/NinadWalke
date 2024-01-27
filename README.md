@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ninad Walke</h1>
 <h3 align="center">A passionate programmer/developer from India</h3>
 
-- 🔭 I’m currently working on **C++ & Java**
+- 🔭 I’m currently working with **C++ & Java**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
