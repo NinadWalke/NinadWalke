@@ -3,7 +3,7 @@
   
   A passionate programmer/developer from India
 
-[Portfolio Link](https://ninad-walke.onrender.com/)
+[My Portfolio](https://ninad-walke.onrender.com/)
   
   </h3>
 
