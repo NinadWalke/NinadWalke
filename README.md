@@ -17,7 +17,7 @@
 - 📫 Email: **ninadwalke00@gmail.com**
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/ninad-walke-3a0a52262/">linkedin.com/in/ninad-walke-3a0a52262</a>
 ---
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -50,6 +50,12 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 </p>
+
+
+<h3 align="left">Technical Language Usage</h3>
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadWalke&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats"/>
+</div>
 
 ---
 
