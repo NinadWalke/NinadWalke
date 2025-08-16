@@ -15,7 +15,13 @@
 - 💡 Deeply interested in **system design, observability, and DevOps workflows**
 - 🎯 I build reliable, testable, and maintainable APIs that scale
 - 📫 Email: **ninadwalke00@gmail.com**
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/ninad-walke-3a0a52262/">linkedin.com/in/ninad-walke-3a0a52262</a>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninad-walke-3a0a52262/)  [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ninad_walke/)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ninadwalke00)
+  
+</div>
+
 ---
 ## 💻 Tech Stack
 
