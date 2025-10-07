@@ -54,6 +54,7 @@
 
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23699eca.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 </p>
 
