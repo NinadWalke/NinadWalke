@@ -2,7 +2,7 @@
 <h3 align="center">
   Backend-focused Software Engineer · System Design Enthusiast · India  
   <br/><br/>
-  🌐 <a href="https://ninad-walke.onrender.com/" target="_blank">Portfolio</a>
+  🌐 <a href="https://ninadwalke.me" target="_blank">Portfolio</a>
 </h3>
 
 ---
