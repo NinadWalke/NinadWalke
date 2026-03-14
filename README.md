@@ -57,12 +57,18 @@
 
 <h3 align="left">Databases</h3>
 <p align="left">
-
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23699eca.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
+<h3 align="left">DevOps & Infrastructure</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 </p>
 
 
@@ -73,9 +79,9 @@
 
 ---
 
-## 📌 Focus Areas for 2025
-- 🔹 **System Design**
-- 🔹 **Multi-tenant architecture**
-- 🔹 **Auth (RBAC, Org-based separation)**
-- 🔹 **Real-time Systems (WebSockets)**
-- 🔹 **Testing (Jest, Integration tests, RTL)**
+## 📌 Focus Areas for 2026
+- 🔹 **System Design & Scalability**
+- 🔹 **Cloud-Native Orchestration (Kubernetes)**
+- 🔹 **Containerization & CI/CD Workflows**
+- 🔹 **Real-time Systems (WebSockets & Redis)**
+- 🔹 **Testing (Jest, Integration tests)**
