@@ -72,8 +72,12 @@
 </p>
 
 
-<h3 align="left">Technical Language Usage</h3>
+## GitHub Stats
+
 <div align="">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ninadwalke&show_icons=true&theme=radical) <br/><br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=SomilBakshi23&theme=dark&hide_border=false) <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadWalke&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats"/>
 </div>
 
